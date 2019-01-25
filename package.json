@@ -1,0 +1,14 @@
+{
+  "name": "bppp",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bitpipe": "0.0.11",
+    "datapay": "0.0.4",
+    "image-data-uri": "^2.0.0"
+  }
+}
